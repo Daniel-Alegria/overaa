@@ -1,5 +1,5 @@
 <div class="overaa-body"">
-<img src="http://via.placeholder.com/554x368">
+<img src="images/overaa_bill.gif">
 <div class="ou-title">
 <h1>Overaa Construction</h1>
 <h2>safety training</h2>
@@ -10,6 +10,6 @@ Welcome to the Overaa Construction Safety Training Portal. To further our effort
 </p>
 </div>
 <div class="row">
-<a class="ou-register" href="#">Register Now</a>
+<a class="ou-register" href="<%=UserNavigationURL%>">Register Now</a>
 </div>
 </div>
