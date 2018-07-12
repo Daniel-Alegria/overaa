@@ -1,0 +1,72 @@
+.overaa-body {
+  margin-bottom: 50px;
+  font-family: arial
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ou-title {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.ou-title h1 {
+  font-family: Arial;
+  font-size: 1.75em;
+  margin-bottom: 0px;
+  color: #0a5f84;
+}
+
+.ou-title h2 {
+  text-transform: uppercase;
+  font-family: arial-narrow;
+  font-size: 1.5em;
+  font-weight: 100;
+  margin-top: 0px;
+  color: grey;
+}
+
+.ou-subtitle {
+  text-transform: uppercase;
+  font-family: arial-narrow;
+  font-size: 1.5em;
+  font-weight: 100;
+  margin-top: 0px;
+}
+
+.ou-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 10px 25px 10px;
+}
+
+.ou-message p {
+ font-family: Arial;
+ font-size: 1.25em;
+ line-height: 1em;
+}
+
+.ou-register {
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #485E87;
+  font-size: 16px;
+  background: #FFF;
+  padding: 10px 25px 10px 25px;
+  border: solid #485E87 2px;
+  text-decoration: none;
+}
+
+.ou-register:hover {
+  background: #485E87;
+  text-decoration: none;
+}
