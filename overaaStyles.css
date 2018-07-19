@@ -1,12 +1,16 @@
 .overaa-body {
   margin-bottom: 50px;
-  font-family: arial
+  font-family: "Arial", sans-serif;
 }
 
 .row {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.tabletextcolhead {
+  color: #FFF;
 }
 
 .ou-title {
@@ -17,7 +21,7 @@
 }
 
 .ou-title h1 {
-  font-family: Arial;
+  font-family: "Arial", sans-serif;
   font-size: 1.75em;
   margin-bottom: 0px;
   color: #0a5f84;
@@ -68,5 +72,10 @@
 
 .ou-register:hover {
   background: #485E87;
+  color: #FFF;
   text-decoration: none;
+}
+
+.ou-support ul {
+  list-style-type: none;
 }
